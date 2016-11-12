@@ -10,11 +10,11 @@ use Mix.Config
 
 # You can configure for your application as:
 #
-#     config :thy_supervisor, key: :value
+#     config :ring, key: :value
 #
 # And access this configuration in your application as:
 #
-#     Application.get_env(:thy_supervisor, :key)
+#     Application.get_env(:ring, :key)
 #
 # Or configure a 3rd-party app:
 #
